@@ -1,3 +1,9 @@
+policykit-unity8 (0.2+ubports) bionic; urgency=medium
+
+  * Imported to UBports
+
+ -- UBports auto importer <infra@ubports.com>  Sun, 18 Feb 2018 19:40:46 +0100
+
 policykit-unity8 (0.1+17.04.20170310-0ubuntu1) zesty; urgency=medium
 
   * Compatibility with unversioned cmake-extras modules (LP: #1563573)
